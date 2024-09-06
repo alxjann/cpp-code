@@ -1,3 +1,3 @@
 # Random C++ Code
 
-This repository is a compilation of my c++ codes
+compilation of my c++ codes :)
