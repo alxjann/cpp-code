@@ -28,7 +28,7 @@ int main()
     cout << "\nList of Numbers: \n";
     
     for(const auto& nums: numbers) {
-        cout << nums.first << ": " << nums.second << "\n\n";
+        cout << nums.first << ": " << nums.second << "\n";
     }   
     
     cout << "Average of the numbers: " << sum / 10;
