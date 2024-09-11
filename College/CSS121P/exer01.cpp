@@ -36,6 +36,7 @@ int main() {
 - Using for loop
 
 int main() {
+	int num;
 	string reversedNum = "";
 	string values[5] = {"Ten Thousands", "Thousands", "Hundreds", "Tens", "Ones"};
 
