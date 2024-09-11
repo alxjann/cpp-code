@@ -30,3 +30,19 @@ int main() {
 	cout << "One's Digit is " << ones << "\n";
 	cout << "The reverse order is " << reversedNum;
 }
+
+
+/* 
+- Using for loop
+
+int main() {
+	string reversedNum = "";
+	string values[5] = {"Ten Thousands", "Thousands", "Hundreds", "Tens", "Ones"};
+
+	for (int i = 0; to_string(num).length()-1; i >= 0; i--) {
+		cout << values[i] << " : " << to_string(num)[i] << "\n";
+		reversedNum += to_string(num)[i];
+	}
+}
+
+*/
